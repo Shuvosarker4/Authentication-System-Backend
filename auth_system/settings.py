@@ -30,6 +30,7 @@ CORS_ALLOWED_ORIGINS = [
     "https://authentication-system-djoser.vercel.app",
     "http://127.0.0.1:8000",
     "http://localhost:5173",
+    "https://authentication-system-client-phi.vercel.app"
 ]
 
 ALLOWED_HOSTS = ['.vercel.app','127.0.0.1']
